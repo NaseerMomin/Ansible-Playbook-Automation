@@ -17,11 +17,13 @@ $ sudo apt install ansible
 $ ansible-inventory --list -y  (option command)
 $ sudo nano /etc/ansible/hosts
 
-On Terminal Edit..
+On Terminal Edit
 
 # Step 3
 
 [servers]
 server1 ansible_host=<public ip>
 server2 ansible_host=<public ip>
+
+[prdserver]
 server3 ansible_host=<public ip>
