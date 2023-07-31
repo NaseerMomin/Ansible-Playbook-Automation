@@ -27,3 +27,12 @@ server2 ansible_host=<public ip>
 
 [prdserver]
 server3 ansible_host=<public ip>
+
+*Exit
+
+On Terminal
+# Step
+
+$ Mkdir Keys (folder create)
+$ cd Keys/
+
